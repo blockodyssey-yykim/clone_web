@@ -69,6 +69,7 @@ a {
 function App() {
   return (
     <>
+      <GlobalStyle></GlobalStyle>
       <Router />
     </>
   );
